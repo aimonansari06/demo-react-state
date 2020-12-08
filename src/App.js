@@ -6,7 +6,7 @@ import Room from './Room';
 
 function App() {
   return (
-    <div>Hello World from app.js
+    <div>
       <Room></Room>
     </div>
     
